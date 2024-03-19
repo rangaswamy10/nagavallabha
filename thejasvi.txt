@@ -1,0 +1,18 @@
+INTRODUCTION TO RISK MANGEMENT
+What is Risk in Project Management?
+Risk is any unexpected event that can affect your project - for better or for worse. Risk can affect anything: people, processes, technology, and resources. An important distinction to remember is that risks are not the same as issues. Issues are things you know you'll have to deal with, and may even have an idea of when they'll occur, like a team member's scheduled vacation, or a big spike in product demand around the holidays. Risks are events that might happen, and you may not be able to tell when - such as flu season hitting your team all at once, or a key product component being on backorder.
+Here is the list of the common project risk that we will be learning in detail including the ways to tackle them:
+Cost Risk.
+Schedule Risk.
+Performance Risk.
+Operational Risk.
+Technology Risk.
+Communication Risk.
+Scope Creep Risk.
+Skills Resource Risk.
+What is cost risk in project management?
+ Cost risk is one of the most common project risks. It can arise from poor budget planning and inaccurate cost estimation. Cost risk is the risk of exceeding the budget for a project or failing to deliver fair value to offset costs.
+ 
+What is the schedule risk in project mangement?
+Schedule risk can be caused by a variety of factors, including inadequate planning, lack of resources, changes in scope, and external factors such as weather or political instability
+
